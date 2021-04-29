@@ -17,7 +17,7 @@ A consumer will reach their fitness goals more quickly when they track their wor
 
 ## Project Task
 
-For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the `Develop` folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
+For this assignment, you'll create a workout tracker. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
 
 ## User Story
 
@@ -53,7 +53,7 @@ The user should be able to:
 
 ## Mock-Up
 
-![Screenshot_1](https://user-images.githubusercontent.com/40922162/115655679-63cf0480-a2f9-11eb-964c-299eea2d95c4.png)
+
 
 ## Live Link
 
